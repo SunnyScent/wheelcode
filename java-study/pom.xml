@@ -11,6 +11,8 @@
     <modules>
         <module>java-algorithms4th</module>
         <module>java-leetcode</module>
+        <module>java.headfirst.pattern</module>
+        <module>effective.java.2th</module>
     </modules>
 
 

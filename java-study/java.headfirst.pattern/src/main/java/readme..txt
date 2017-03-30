@@ -1,0 +1,1 @@
+1.包名命名不能以java开头,应为ClassLoader中name.startsWith("java.")会进行检查,抛出SecurityException异常。
